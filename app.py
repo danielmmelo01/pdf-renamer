@@ -204,7 +204,7 @@ with col_logo:
     st.markdown("<div style='font-size: 4rem; text-align: center;'>⚡</div>", unsafe_allow_html=True)
 with col_title:
     st.title("IntelliGrid Renamer")
-    st.markdown("Ferramenta para padronização de comprovantes de energia.")
+    st.markdown("Ferramenta para padronização de comprovantes de pagamento.")
 
 st.markdown("---")
 st.info("Bancos suportados nesta versão: **Sicredi, Banco do Brasil, Caixa**.")
@@ -319,4 +319,5 @@ st.markdown(
     "IntelliGrid Tools v1.2 | Desenvolvido para uso interno."
     "</div>", 
     unsafe_allow_html=True
+
 )
